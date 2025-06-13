@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Logout - Mawar Group</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: white;
+    }
+
+    .kotak {
+      width: 350px;
+      margin: 50px auto;
+      border: 1px solid gray;
+      text-align: center;
+    }
+
+    .judul {
+      background-color: darkred;
+      color: gold;
+      padding: 20px;
+      font-size: 28px;
+      font-family: cursive;
+    }
+
+    .pesan-utama {
+      color: red;
+      font-weight: bold;
+      margin-top: 30px;
+    }
+
+    .pesan-kecil {
+      font-size: 14px;
+      color: black;
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="kotak">
+    <div class="judul">Mawar Group</div>
+    <div class="pesan-utama">ANDA SUDAH KELUAR DARI AKUN</div>
+    <div class="pesan-kecil">
+      Oops! Anda sudah keluar dari akun presensi online.<br>
+      Apabila ingin kembali masuk silahkan klik tombol dari awal.
+    </div>
+  </div>
+
+</body>
+</html>
